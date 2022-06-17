@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Donchiz77
 - 👀 I’m interested in learing all i can while i can.
-- 🌱 I’m currently learning full stack coding materials
+- 🌱 I’m currently learning Front-end and back-end coding materials
 - 💞️ I’m looking to collaborate on anything that helps futher my knowledge and skills as a web dev.
 - 📫 Don.chisolm14@gmail.com
 
